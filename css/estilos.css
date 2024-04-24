@@ -16,6 +16,9 @@ header {
     padding: 20px;
     text-align: center;
 }
+header h2{
+    background-color: #0bce2c;
+}
 
 nav {
     background-color: #444;
